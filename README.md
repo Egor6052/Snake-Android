@@ -27,5 +27,5 @@ cd android
 
 _Запуск на пристрої або емуляторі_
 ```
-_adb install -r app/build/outputs/apk/debug/app-debug.apk_
+adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
