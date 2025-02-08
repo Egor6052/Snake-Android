@@ -1,0 +1,7 @@
+-- Downloading https://github.com/tronkko/dirent/archive/1.24.tar.gz -> tronkko-dirent-1.24.tar.gz...
+-- Extracting source C:/Users/Administrator/AppData/Local/vcpkg/downloads/tronkko-dirent-1.24.tar.gz
+-- Using source at C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/blds/dirent/src/1.24-cd31aecacf.clean
+-- Up-to-date: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/dirent_x64-windows/include
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/dirent_x64-windows/include/dirent.h
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/dirent_x64-windows/share/dirent/copyright
+-- Выполнение проверки после сборки

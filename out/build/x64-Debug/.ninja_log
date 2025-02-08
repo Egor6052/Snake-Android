@@ -1,0 +1,6 @@
+# ninja log v6
+27	1188	7603881383332898	CMakeFiles/start-win.dir/src/Food/Food.cpp.obj	e1f4cd15f8dfd6bc
+15	1202	7603881383175759	CMakeFiles/start-win.dir/src/main.cpp.obj	37627e125bb50435
+26	1206	7603881383332898	CMakeFiles/start-win.dir/src/Background/Background.cpp.obj	613a8c6ec3815104
+29	1302	7603881383332898	CMakeFiles/start-win.dir/src/Snake/Snake.cpp.obj	fe14b78268d6e68a
+1303	2194	7603881396045727	start-win.exe	e230d6156c47c2a7

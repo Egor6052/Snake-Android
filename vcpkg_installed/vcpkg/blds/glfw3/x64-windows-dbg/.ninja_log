@@ -1,0 +1,26 @@
+# ninja log v6
+22	4877	7602377443986140	src/CMakeFiles/glfw.dir/platform.c.obj	6679b3a9450180ec
+31	4943	7602377443986140	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	a2a5a6a50483f739
+24	4957	7602377443986140	src/CMakeFiles/glfw.dir/vulkan.c.obj	ab6256ac9f87beaf
+18	4972	7602377443886096	src/CMakeFiles/glfw.dir/init.c.obj	bdff3f0361853572
+28	4985	7602377443986140	src/CMakeFiles/glfw.dir/egl_context.c.obj	240d8eab3a31e319
+21	4998	7602377443986140	src/CMakeFiles/glfw.dir/monitor.c.obj	d93aec91f84b188a
+26	5006	7602377443986140	src/CMakeFiles/glfw.dir/window.c.obj	9f69703a0a67aebb
+16	5013	7602377443886096	src/CMakeFiles/glfw.dir/context.c.obj	ec4910508ac3c197
+19	5043	7602377443886096	src/CMakeFiles/glfw.dir/input.c.obj	cc88ff2535237719
+4917	5496	7602377492927827	src/CMakeFiles/glfw.dir/null_init.c.obj	bbd674c85210232c
+4944	5506	7602377493184224	src/CMakeFiles/glfw.dir/null_monitor.c.obj	621506fb7f32ace2
+4999	5517	7602377493663543	src/CMakeFiles/glfw.dir/win32_time.c.obj	aabe59dd861cba2
+4972	5523	7602377493405533	src/CMakeFiles/glfw.dir/null_joystick.c.obj	53abc228b830dc43
+4958	5709	7602377493340452	src/CMakeFiles/glfw.dir/null_window.c.obj	262292bb0ed975ce
+5006	5714	7602377493819849	src/CMakeFiles/glfw.dir/win32_thread.c.obj	4efa7b0a4771ccab
+5036	5719	7602377494076530	src/CMakeFiles/glfw.dir/win32_init.c.obj	d5279dbb851c6f68
+4985	5745	7602377493563495	src/CMakeFiles/glfw.dir/win32_module.c.obj	143684793b9bb61c
+5043	5814	7602377494076530	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	ceca7c27c33fdcea
+5524	5914	7602377498975903	src/CMakeFiles/glfw.dir/glfw.rc.res	235f7e1bdfa235c0
+5496	5985	7602377498719173	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	f4b736c9b943eca1
+5517	5991	7602377498819212	src/CMakeFiles/glfw.dir/wgl_context.c.obj	adf283158cd79754
+5506	6077	7602377498819212	src/CMakeFiles/glfw.dir/win32_window.c.obj	11d84f4f9f95600e
+6077	7634	7602377518528518	src/glfw3.dll	26fbd63ea4988bc
+6077	7634	7602377518528518	src/glfw3dll.lib	26fbd63ea4988bc
+7635	7726	7602377520119404	CMakeFiles/install.util	c23f9a558e2a8d6d

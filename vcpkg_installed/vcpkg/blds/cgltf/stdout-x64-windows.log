@@ -1,0 +1,5 @@
+-- Downloading https://github.com/jkuhlmann/cgltf/archive/v1.14.tar.gz -> jkuhlmann-cgltf-v1.14.tar.gz...
+-- Extracting source C:/Users/Administrator/AppData/Local/vcpkg/downloads/jkuhlmann-cgltf-v1.14.tar.gz
+-- Using source at C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/blds/cgltf/src/v1.14-7cf8b4171b.clean
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/cgltf_x64-windows/share/cgltf/copyright
+-- Выполнение проверки после сборки

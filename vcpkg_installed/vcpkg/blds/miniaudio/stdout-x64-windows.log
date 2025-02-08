@@ -1,0 +1,6 @@
+-- Downloading https://github.com/mackron/miniaudio/archive/0.11.21.tar.gz -> mackron-miniaudio-0.11.21.tar.gz...
+-- Extracting source C:/Users/Administrator/AppData/Local/vcpkg/downloads/mackron-miniaudio-0.11.21.tar.gz
+-- Using source at C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/blds/miniaudio/src/0.11.21-e447091c17.clean
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/miniaudio_x64-windows/include/miniaudio.h
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/miniaudio_x64-windows/share/miniaudio/copyright
+-- Выполнение проверки после сборки

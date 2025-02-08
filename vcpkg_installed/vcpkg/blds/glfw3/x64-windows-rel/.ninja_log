@@ -1,0 +1,26 @@
+# ninja log v6
+30	566	7602377521519682	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	8832722c0a1a823
+22	622	7602377521519682	src/CMakeFiles/glfw.dir/platform.c.obj	7afb4e1b4b9cf331
+24	635	7602377521519682	src/CMakeFiles/glfw.dir/vulkan.c.obj	c3c725c4d0425800
+26	649	7602377521519682	src/CMakeFiles/glfw.dir/window.c.obj	602cc458a42f8c12
+16	659	7602377521419631	src/CMakeFiles/glfw.dir/context.c.obj	445c7c53fec4e214
+21	666	7602377521519682	src/CMakeFiles/glfw.dir/monitor.c.obj	af7c81e59f87515a
+18	678	7602377521519682	src/CMakeFiles/glfw.dir/init.c.obj	9e803bcd84343faf
+28	686	7602377521519682	src/CMakeFiles/glfw.dir/egl_context.c.obj	55deef3453f70351
+20	847	7602377521519682	src/CMakeFiles/glfw.dir/input.c.obj	ae704f9a975c796c
+659	1450	7602377527928708	src/CMakeFiles/glfw.dir/win32_module.c.obj	8ef72dfe04993033
+650	1465	7602377527828122	src/CMakeFiles/glfw.dir/null_joystick.c.obj	4367c22811c6474a
+636	1479	7602377527707515	src/CMakeFiles/glfw.dir/null_window.c.obj	f2d0bac42b8dd721
+679	1490	7602377528107810	src/CMakeFiles/glfw.dir/win32_thread.c.obj	1a91cd644f9c95c
+667	1501	7602377528012748	src/CMakeFiles/glfw.dir/win32_time.c.obj	f9442f8814fc1ec6
+622	1508	7602377527525998	src/CMakeFiles/glfw.dir/null_monitor.c.obj	28cf76fdeda5f788
+607	1514	7602377527405291	src/CMakeFiles/glfw.dir/null_init.c.obj	8ee32a5f52107920
+836	1519	7602377529678987	src/CMakeFiles/glfw.dir/win32_init.c.obj	45cd420d387135af
+1491	1583	7602377536176897	src/CMakeFiles/glfw.dir/glfw.rc.res	4b28c759759b698
+848	1612	7602377529678987	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	4d1a55e67f5b95f
+1479	1857	7602377536076524	src/CMakeFiles/glfw.dir/wgl_context.c.obj	1c5f508e4daece49
+1451	1895	7602377535855415	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	25aa0bc5fe4babbf
+1466	1939	7602377535976022	src/CMakeFiles/glfw.dir/win32_window.c.obj	fde38d332aac1bf4
+1940	3139	7602377549944181	src/glfw3.dll	a31d63ea7b09feef
+1940	3139	7602377549944181	src/glfw3dll.lib	a31d63ea7b09feef
+3139	3184	7602377552693125	CMakeFiles/install.util	70044194864cf0e5

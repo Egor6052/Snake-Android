@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Snake-NewSite/out/build/x64-Debug/CMakeFiles/start-win.dir
+C:/Users/Administrator/Desktop/Snake-NewSite/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Snake-NewSite/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

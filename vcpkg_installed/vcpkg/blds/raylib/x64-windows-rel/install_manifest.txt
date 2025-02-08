@@ -1,0 +1,8 @@
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/lib/raylib.lib
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/bin/raylib.dll
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/include/raylib.h
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/include/rlgl.h
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/include/raymath.h
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/lib/pkgconfig/raylib.pc
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/lib/cmake/raylib/raylib-config.cmake

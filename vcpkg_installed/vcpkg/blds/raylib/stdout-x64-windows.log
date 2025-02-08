@@ -1,0 +1,43 @@
+-- Downloading https://github.com/raysan5/raylib/archive/5.0.tar.gz -> raysan5-raylib-5.0.tar.gz...
+-- Extracting source C:/Users/Administrator/AppData/Local/vcpkg/downloads/raysan5-raylib-5.0.tar.gz
+-- Applying patch android.diff
+-- Using source at C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/blds/raylib/src/5.0-dd5c0ed4a4.clean
+-- De-vendoring 'cgltf.h'
+-- De-vendoring 'dr_flac.h'
+-- De-vendoring 'dr_mp3.h'
+-- De-vendoring 'dr_wav.h'
+-- De-vendoring 'miniaudio.h'
+-- De-vendoring 'nanosvg.h'
+-- De-vendoring 'nanosvgrast.h'
+-- De-vendoring 'qoi.h'
+-- De-vendoring 'sdefl.h'
+-- De-vendoring 'sinfl.h'
+-- De-vendoring 'stb_image.h'
+-- De-vendoring 'stb_image_resize2.h'
+-- De-vendoring 'stb_image_write.h'
+-- De-vendoring 'stb_perlin.h'
+-- De-vendoring 'stb_rect_pack.h'
+-- De-vendoring 'stb_truetype.h'
+-- De-vendoring 'stb_vorbis.c'
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/bin/raylib.dll
+      C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/debug/bin/raylib.dll
+
+Call Stack (most recent call first):
+  C:/Users/Administrator/AppData/Local/vcpkg/registries/git-trees/6ef397a5c5afb217736842e45d9610d084a1fb2d/portfile.cmake:75 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/lib/pkgconfig/raylib.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/Administrator/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/debug/lib/pkgconfig/raylib.pc
+-- Installing: C:/Users/Administrator/Desktop/Snake-NewSite/vcpkg_installed/vcpkg/pkgs/raylib_x64-windows/share/raylib/copyright
+-- Выполнение проверки после сборки

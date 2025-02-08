@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Snake Game
+Exec=/home/admin1/Стільниця/Snake/build/start
+Icon=/home/admin1/Стільниця/Snake/assets/logo.png
+Terminal=false
+Type=Application
+Categories=Game
